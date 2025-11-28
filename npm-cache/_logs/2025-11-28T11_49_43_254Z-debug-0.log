@@ -1,0 +1,30 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.9.3
+2 info using node@v22.20.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/user/.npmrc
+5 silly config load:file:/usr/local/etc/npmrc
+6 verbose title npm init
+7 verbose argv "init" "--yes"
+8 verbose logfile logs-max:10 dir:/Users/user/Desktop/auth-api/npm-cache/_logs/2025-11-28T11_49_43_254Z-
+9 verbose logfile /Users/user/Desktop/auth-api/npm-cache/_logs/2025-11-28T11_49_43_254Z-debug-0.log
+10 silly logfile done cleaning log files
+11 silly package data {
+11 silly package data   name: 'auth-api',
+11 silly package data   version: '1.0.0',
+11 silly package data   description: '',
+11 silly package data   main: 'server.js',
+11 silly package data   scripts: {
+11 silly package data     test: 'echo "Error: no test specified" && exit 1',
+11 silly package data     start: 'node server.js'
+11 silly package data   },
+11 silly package data   keywords: [],
+11 silly package data   author: '',
+11 silly package data   license: 'ISC'
+11 silly package data }
+12 verbose cwd /Users/user/Desktop/auth-api
+13 verbose os Darwin 24.6.0
+14 verbose node v22.20.0
+15 verbose npm  v10.9.3
+16 verbose exit 0
+17 info ok
